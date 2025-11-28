@@ -1,0 +1,40 @@
+# Bağımlılıklar (Dependencies)
+node_modules/
+package-lock.json # Opsiyonel: Bazen versiyon tutarlılığı için yüklenmesi istenir, ancak kişisel tercihse eklenebilir. Genelde yüklenmesi önerilir, bu satırı silebilirsin.
+yarn.lock         # Aynı şekilde, genelde yüklenir ama tercihe bağlı gizlenebilir.
+
+# Çevresel Değişkenler (Environment Variables) - GÜVENLİK İÇİN KRİTİK
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.production
+
+# Loglar
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Çalışma zamanı verileri (Runtime data)
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Test kapsamı (Coverage directory used by tools like istanbul/nyc)
+coverage/
+*.lcov
+
+# IDE ve Editör dosyaları (Gereksiz kalabalık yapmasın)
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Build dosyaları (Eğer TypeScript veya build tool kullanıyorsan)
+dist/
+build/

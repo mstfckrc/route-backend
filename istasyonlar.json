@@ -1,0 +1,276 @@
+[
+  {
+    "id": "ist-izmir-01",
+    "ad": "Aydem İzmir Bornova (IKEA)",
+    "koordinat": {
+      "lat": 38.4568,
+      "lng": 27.2118
+    },
+    "fiyat_kw": 8.3,
+    "tip": "hizli",
+    "rezervasyonlar": [
+      {
+        "baslangic": "09:00",
+        "bitis": "10:00"
+      },
+      {
+        "baslangic": "14:00",
+        "bitis": "15:30"
+      },
+      {
+        "baslangic": "18:00",
+        "bitis": "19:00"
+      }
+    ]
+  },
+  {
+    "id": "ist-izmir-02",
+    "ad": "Aydem İzmir Konak (Pier)",
+    "koordinat": {
+      "lat": 38.4189,
+      "lng": 27.1287
+    },
+    "fiyat_kw": 6.8,
+    "tip": "yavas",
+    "rezervasyonlar": [
+      {
+        "baslangic": "12:00",
+        "bitis": "16:00"
+      }
+    ]
+  },
+  {
+    "id": "ist-izmir-03",
+    "ad": "Aydem İzmir Balçova (Agora)",
+    "koordinat": {
+      "lat": 38.3921,
+      "lng": 27.0449
+    },
+    "fiyat_kw": 8.2,
+    "tip": "hizli",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-izmir-04",
+    "ad": "Aydem İzmir Gaziemir (Optimum)",
+    "koordinat": {
+      "lat": 38.3225,
+      "lng": 27.1285
+    },
+    "fiyat_kw": 6.5,
+    "tip": "yavas",
+    "rezervasyonlar": [
+      {
+        "baslangic": "08:00",
+        "bitis": "10:00"
+      }
+    ]
+  },
+  {
+    "id": "ist-izmir-05",
+    "ad": "Aydem İzmir Menemen (Kuzey)",
+    "koordinat": {
+      "lat": 38.5932,
+      "lng": 27.0755
+    },
+    "fiyat_kw": 7.5,
+    "tip": "yavas",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-manisa-01",
+    "ad": "Aydem Manisa Merkez (Magnesia)",
+    "koordinat": {
+      "lat": 38.6135,
+      "lng": 27.4095
+    },
+    "fiyat_kw": 8.4,
+    "tip": "hizli",
+    "rezervasyonlar": [
+      {
+        "baslangic": "10:30",
+        "bitis": "11:30"
+      },
+      {
+        "baslangic": "15:00",
+        "bitis": "16:00"
+      },
+      {
+        "baslangic": "09:33",
+        "bitis": "09:57"
+      },
+      {
+        "baslangic": "08:27",
+        "bitis": "08:51"
+      }
+    ]
+  },
+  {
+    "id": "ist-manisa-02",
+    "ad": "Aydem Manisa Akhisar (Köfteci)",
+    "koordinat": {
+      "lat": 38.9206,
+      "lng": 27.8396
+    },
+    "fiyat_kw": 7,
+    "tip": "yavas",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-manisa-03",
+    "ad": "Aydem Manisa Kula (Geopark)",
+    "koordinat": {
+      "lat": 38.5442,
+      "lng": 28.6498
+    },
+    "fiyat_kw": 8,
+    "tip": "hizli",
+    "rezervasyonlar": [
+      {
+        "baslangic": "13:00",
+        "bitis": "14:00"
+      },
+      {
+        "baslangic": "11:52",
+        "bitis": "12:17"
+      }
+    ]
+  },
+  {
+    "id": "ist-manisa-04",
+    "ad": "Aydem Manisa Salihli (Yol Üstü)",
+    "koordinat": {
+      "lat": 38.4821,
+      "lng": 28.1317
+    },
+    "fiyat_kw": 6.5,
+    "tip": "yavas",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-aydin-01",
+    "ad": "Aydem Aydın Forum",
+    "koordinat": {
+      "lat": 37.8439,
+      "lng": 27.8511
+    },
+    "fiyat_kw": 8.3,
+    "tip": "hizli",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-aydin-02",
+    "ad": "Aydem Aydın Söke (Novada)",
+    "koordinat": {
+      "lat": 37.7371,
+      "lng": 27.4229
+    },
+    "fiyat_kw": 6.7,
+    "tip": "yavas",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-aydin-03",
+    "ad": "Aydem Kuşadası Marina",
+    "koordinat": {
+      "lat": 37.8661,
+      "lng": 27.2607
+    },
+    "fiyat_kw": 9.1,
+    "tip": "hizli",
+    "rezervasyonlar": [
+      {
+        "baslangic": "12:00",
+        "bitis": "18:00"
+      }
+    ]
+  },
+  {
+    "id": "ist-mugla-01",
+    "ad": "Aydem Muğla Menteşe",
+    "koordinat": {
+      "lat": 37.2153,
+      "lng": 28.3636
+    },
+    "fiyat_kw": 8.5,
+    "tip": "hizli",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-mugla-02",
+    "ad": "Aydem Bodrum (Midtown)",
+    "koordinat": {
+      "lat": 37.0532,
+      "lng": 27.3879
+    },
+    "fiyat_kw": 7,
+    "tip": "yavas",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-balikesir-01",
+    "ad": "Aydem Susurluk (Tostçu)",
+    "koordinat": {
+      "lat": 39.9056,
+      "lng": 28.1558
+    },
+    "fiyat_kw": 8.8,
+    "tip": "hizli",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-bursa-01",
+    "ad": "Aydem Bursa (Korupark)",
+    "koordinat": {
+      "lat": 40.2323,
+      "lng": 28.9673
+    },
+    "fiyat_kw": 8.6,
+    "tip": "hizli",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-denizli-01",
+    "ad": "Aydem Denizli Forum",
+    "koordinat": {
+      "lat": 37.7553,
+      "lng": 29.1042
+    },
+    "fiyat_kw": 8.1,
+    "tip": "hizli",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-usak-01",
+    "ad": "Aydem Uşak (Festiva)",
+    "koordinat": {
+      "lat": 38.6687,
+      "lng": 29.4219
+    },
+    "fiyat_kw": 6.9,
+    "tip": "yavas",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-istanbul-01",
+    "ad": "Aydem Gebze Center",
+    "koordinat": {
+      "lat": 40.7982,
+      "lng": 29.4368
+    },
+    "fiyat_kw": 9,
+    "tip": "hizli",
+    "rezervasyonlar": []
+  },
+  {
+    "id": "ist-istanbul-02",
+    "ad": "Aydem İstanbul (Mall of Ist)",
+    "koordinat": {
+      "lat": 41.0631,
+      "lng": 28.8062
+    },
+    "fiyat_kw": 9.5,
+    "tip": "hizli",
+    "rezervasyonlar": []
+  }
+]
